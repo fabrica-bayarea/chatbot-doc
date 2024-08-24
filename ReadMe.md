@@ -34,3 +34,9 @@ Abaixo temos uma lista de pessoas que participam deste projeto.
 | Rhuan Gabriel Silva Faria| Desenvolvedor Backend |
 | William Xavier Rego | Desenvolver Backend, Project Management Office (PMO) |
 | Paulo Henrque Lima | Desenvolvedor Frontend |
+
+# Kit Cursos/Treinamentos
+
+Acesse o link:
+
+https://drive.google.com/drive/folders/1qpVstScR37PUGzptdj0pazwvhA9AR9VB?usp=sharing 
